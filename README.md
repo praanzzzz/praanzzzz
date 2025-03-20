@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praanzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="praanzzzz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praanzzzz" alt="praanzzzz" /></a> </p>
-
 - 🔭 I’m currently working on **TakeUp**
 
 - 🌱 I’m currently learning **Django, AI, Machine Learning, HTMX**
