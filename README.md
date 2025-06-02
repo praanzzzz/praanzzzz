@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, AI, Machine Learning, HTMX**
 
-- 👨‍💻 All of my projects are available at [https://praanzzzz.github.io/myportfolio/](https://praanzzzz.github.io/myportfolio/)
+- 👨‍💻 All of my projects are available at [https://praanzzzz.github.io/myportfolio/](https://praanzzzz.github.io/MpPortfolio/)
 
 - 💬 Ask me about **Django and Python**
 
